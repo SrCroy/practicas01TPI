@@ -8,7 +8,8 @@
 <body>
     <center>Ejercicios 1</center>
     <ul>
-        <li><a href="paginas/ejercicios-01.php">Ejercicios 1</a></li>
+        <li><a href="paginas/ejercicio-01.php">Ejercicio 1</a></li>
+        <li><a href="paginas/ejercicio-02.php">Ejercicio 2</a></li>
     </ul>
 </body>
 </html>
