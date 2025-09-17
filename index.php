@@ -6,7 +6,7 @@
     <title>inicio</title>
 </head>
 <body>
-    <center>Ejercicios 1</center>
+    <center>Ejercicios de practica</center>
     <ul>
         <li><a href="paginas/ejercicio-01.php">Ejercicio 1</a></li>
         <li><a href="paginas/ejercicio-02.php">Ejercicio 2</a></li>
@@ -14,6 +14,7 @@
         <li><a href="paginas/ejercicio-04.php">Ejercicio 4</a></li>
         <li><a href="paginas/ejercicio-05.php">Ejercicio 5</a></li>
         <li><a href="paginas/ejercicio-06.php">Ejercicio 6</a></li>
+        <li><a href="paginas/ejercicio-07.php">Ejercicio 7</a></li>
     </ul>
 </body>
 </html>
