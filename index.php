@@ -21,6 +21,7 @@
         <li><a href="paginas/ejercicio-10.php">Ejercicio 10</a></li>
         <li><a href="paginas/ejercicio-11.php">Ejercicio 11</a></li>
         <li><a href="paginas/ejercicio-12.php">Ejercicio 12</a></li>
+        <li><a href="paginas/ejercicio-13.php">Ejercicio 13</a></li>
     </ul>
 </body>
 </html>
