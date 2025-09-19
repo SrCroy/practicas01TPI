@@ -1,5 +1,5 @@
 <?php
-use personas; //se deb de usar / en la clase+
+//use personas; //se deb de usar / en la clase+
 require_once("Personas.php");
 class Alumno extends Persona{
     private $DUE;
