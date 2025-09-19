@@ -18,6 +18,7 @@
         <li><a href="paginas/ejercicio-07.php">Ejercicio 7</a></li>
         <li><a href="paginas/ejercicio-08.php">Ejercicio 8</a></li>
         <li><a href="paginas/ejercicio-09.php">Ejercicio 9</a></li>
+        <li><a href="paginas/ejercicio-10.php">Ejercicio 10</a></li>
     </ul>
 </body>
 </html>
