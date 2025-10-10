@@ -12,7 +12,9 @@ Route::get("/inicio/:flag", function($flag){
 });
 
 Route::get("/home", [HomeController::class,"index"]);
-
+Route::get("/formulario", [HomeController::class, "mostrarFormulario"]);
+Route::post("/enviar", [HomeController::class, "enviarPersona"]);
+Route::get("/id/:id", [HomeController::class, "buscarId"]);
 Route::dispatch();
 
 ?>

@@ -19,7 +19,7 @@ class Route{
         //var_dump(self::$routes);
         foreach(self::$routes[$method] as $url=>$funcion){
             if(strpos($url, ":")!==false){
-                $url = preg_replace("#:[a-zA-Z]+#","([a-zA-Z]+)",$url);
+                $url = preg_replace("#:[a-zA-Z0-9]+#","([a-zA-Z0-9]+)",$url);
                 //echo $url;
                 //return;
             }
